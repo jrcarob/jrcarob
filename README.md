@@ -1,6 +1,6 @@
 ### Hi, everybody! 👋🏻
 
-![image](img/background.png) 
+![image](img/calculation-statistics-mathematics-graphics.jpg) 
 
 This is my github repo. A place where you can find the most of my...
 
