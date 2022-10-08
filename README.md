@@ -1,9 +1,13 @@
-### Hi, everybody! 👋🏻
+## Hi, everybody! 👋🏻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&width=435&lines=Jos%C3%A9+R.+Caro-Barrera)](https://git.io/typing-svg)
 
 ![image](img/calculation-statistics-mathematics-graphics.jpg) 
 
-Welcome to my github repo. A place where you can find the most of my research interests and teaching material.
+Welcome to my github repo. A place where you can find the most of my research interests, teaching material and other stuff.
 
-## What do I do:🧑🏼‍💻
+### 🧑🏼‍💻 What do I do:
+
+### 🖥️ Computer Skills: 
+
+### 📜 Research Interests: 
