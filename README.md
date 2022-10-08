@@ -4,10 +4,14 @@
 
 ![image](img/calculation-statistics-mathematics-graphics.jpg) 
 
-Welcome to my github repo. A place where you can find the most of my research interests, teaching material and other stuff.
+### Welcome to my github repo. A place where you can find the most of my research interests, teaching material and other stuff.
 
-### 🧑🏼‍💻 What do I do:
+### What do I do: 🧑🏼‍💻
 
-### 🖥️ Computer Skills: 
+### Computer Skills: 🖥️
 
-### 📜 Research Interests: 
+- **Fluent:** R, R-Studio, Markdown, LaTeX and Ti*k*z. 
+- **Familiar:** Python, Matlab, Quarto, VSCode.
+- **Novice:** Julia, C++, Java.
+
+### Research Interests: 📜 
