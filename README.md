@@ -15,3 +15,7 @@
 - **Novice:** Julia, C++, Java.
 
 ### Research Interests: 📜 
+
+- Applied Statistics to Financial Markets
+- Demographic Models
+- Econophysics
