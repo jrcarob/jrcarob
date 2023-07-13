@@ -10,12 +10,14 @@
 
 ### Computer Skills: 🖥️
 
-- **Fluent:** R, R-Studio, Markdown, LaTeX and Ti*k*z. 
-- **Familiar:** Python, Matlab, Quarto, VSCode.
+- **Fluent:** R, R-Studio, Python, Markdown, LaTeX and Ti*k*z. 
+- **Familiar:** Matlab, Quarto, VSCode.
 - **Novice:** Julia, C++, Java.
 
 ### Research Interests: 📜 
 
-- Applied Statistics to Financial Markets
-- Demographic Models
-- Econophysics
+- Applied Statistics and Econometrics to Financial Markets.
+- Demography and Demographic Models.
+- Computational Methods for Quantitative Finance.
+- Econophysics.
+- Machine Learning for Economics and Finance.
