@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&width=435&lines=Jos%C3%A9+R.+Caro-Barrera)](https://git.io/typing-svg)
 
-![image](img/calculation-statistics-mathematics-graphics.jpg) 
+<img align="left" width="60%" src="img/calculation-statistics-mathematics-graphics.jpg"></a>
 
-### Welcome to my GitHub repo. A place where you can find most of my research interests, teaching material and other stuff. I share all of my university content to support my students, scholars and working professionals interested to learn about data science.
+### Welcome to my GitHub repo. A place where you can find most of my research interests, teaching material and other stuff. I'm José Caro, an interim professor working in statistics, econometrics, data science and machine learning applied to finance and economics at The University of Córdoba, Spain. I share all of my university content to support students, scholars and working professionals interested to learn about data science and quantitative methods applied to social sciences. </a></br>
 
 ### What do I do: 🧑🏼‍💻
 
