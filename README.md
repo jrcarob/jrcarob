@@ -21,3 +21,8 @@
 - Computational Methods for Quantitative Finance.
 - Econophysics.
 - Machine Learning for Economics and Finance.
+
+<p align="center">
+  <a href="https://twitter.com/caroisallin"><img width="7%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://scholar.google.es/citations?user=NGV9ylEAAAAJ&hl=es"><img width="7%" src="https://img.icons8.com/color/96/000000/google.png" alt="google"/></a>
+  <a href="https://www.github.com/jrcarob"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
