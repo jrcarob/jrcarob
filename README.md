@@ -25,5 +25,5 @@
 <p align="center">
   <a href="https://twitter.com/caroisallin"><img width="7%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://scholar.google.es/citations?user=NGV9ylEAAAAJ&hl=es"><img width="7%" src="https://img.icons8.com/color/96/000000/google.png" alt="google"/></a>
-  <a href="https://www.researchgate.net/profile/Jose-R-Caro-Barrera-2"><img width="7%" src="img/calculation-statistics-mathematics-graphics.jpg" alt="researchgate"/></a>
+  <a href="https://www.researchgate.net/profile/Jose-R-Caro-Barrera-2"><img width="6%" src="img/ResearchGate_icon.png" alt="researchgate"/></a>
   <a href="https://www.github.com/jrcarob"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
