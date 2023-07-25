@@ -4,7 +4,7 @@
 
 ![image](img/calculation-statistics-mathematics-graphics.jpg) 
 
-![image](img/me2.png)  ### Welcome to my github repo. A place where you can find most of my research interests, teaching material and other stuff. I share all of my university content to support my students, scholars and working professionals interested to learn about data science.
+### Welcome to my GitHub repo. A place where you can find most of my research interests, teaching material and other stuff. I share all of my university content to support my students, scholars and working professionals interested to learn about data science.
 
 ### What do I do: 🧑🏼‍💻
 
