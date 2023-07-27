@@ -11,7 +11,7 @@
 ### Computer Skills: 🖥️
 
 - **Fluent:** R, R-Studio, Python, Markdown, LaTeX and Ti*k*z. 
-- **Familiar:** Matlab, Quarto, VSCode.
+- **Familiar:** Matlab, Quarto, Github, VSCode.
 - **Novice:** Julia, C++, Java.
 
 ### Research Interests: 📜 
