@@ -38,4 +38,11 @@
   <a href="https://www.researchgate.net/profile/Jose-R-Caro-Barrera-2"><img width="6%" src="img/ResearchGate_icon.png" alt="researchgate"/></a>
   <a href="https://www.github.com/jrcarob"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="github"/></a>
 
+### Github Stats
+
+![jrcarob's Stats](https://github-readme-stats.vercel.app/api?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![jrcarob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrcarob&theme=tokyonight&hide_border=true)
+
+![jrcarob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
