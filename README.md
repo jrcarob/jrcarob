@@ -8,11 +8,11 @@
 
 ### What do I do: 🧑🏼‍💻
 
-### Computer Skills: 🖥️
+### Computer Skills: 🖥️  
 
 - **Fluent:** R, R-Studio, Python, Markdown, LaTeX and Ti*k*z. 
-- **Familiar:** Matlab, Quarto, Github, VSCode.
-- **Novice:** Julia, C++, Java.
+- **Familiar:** Matlab, Quarto, Github, VSCode. 
+- **Novice:** Julia, C++, Java.   
 
 ### Research Interests: 📜 
 
@@ -40,9 +40,10 @@
 
 ### Github Stats
 
-![jrcarob's Stats](https://github-readme-stats.vercel.app/api?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![jrcarob's Stats](https://github-readme-stats.vercel.app/api?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![jrcarob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrcarob&theme=tokyonight&hide_border=true)
+![jrcarob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrcarob&theme=tokyonight&hide_border=false)
 
-![jrcarob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![jrcarob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 
