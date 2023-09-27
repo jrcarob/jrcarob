@@ -6,22 +6,15 @@
 
 ### Welcome to my GitHub repo. A place where you can find most of my research interests, teaching material and other stuff. I'm José Caro, an interim professor working in statistics, econometrics, data science and machine learning applied to finance and economics at The University of Córdoba, Spain. I share all of my teaching and researching content to support students, scholars and working professionals interested to learn about data science and quantitative methods applied to social sciences. </a></br>
 
-### What do I do: 🧑🏼‍💻
+### What do I do and how: 🧑🏼‍💻
 
-### Research Interests: 📜 
-
-- Applied Statistics and Econometrics to Financial Markets.
-- Demography and Demographic Models.
-- Computational Methods for Quantitative Finance.
-- Econophysics.
-- Machine Learning for Economics and Finance.
-
-### Computer Skills: 🖥️  
-
-- **Fluent:** R, R-Studio, Python, Markdown, LaTeX and Ti*k*z. 
-- **Familiar:** Matlab, Quarto, Github, VSCode. 
-- **Novice:** Julia, C++, Java.   
-
+Research Interests 📜 | Computer Skills 🖥️ 
+------------ | -------------
+Applied Statistics and Econometrics to Financial Markets | **Fluent:** R, R-Studio, Python, Markdown, LaTeX and Ti*k*z
+Demography and Demographic Models | **Familiar:** Matlab, Quarto, Github, VSCode
+Computational Methods for Quantitative Finance |  **Novice:** Julia, C++, Java
+Econophysics | 
+Machine Learning for Economics and Finance |
 
 ### What do I use in my work?
 <p>
