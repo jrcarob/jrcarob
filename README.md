@@ -8,12 +8,6 @@
 
 ### What do I do: 🧑🏼‍💻
 
-### Computer Skills: 🖥️  
-
-- **Fluent:** R, R-Studio, Python, Markdown, LaTeX and Ti*k*z. 
-- **Familiar:** Matlab, Quarto, Github, VSCode. 
-- **Novice:** Julia, C++, Java.   
-
 ### Research Interests: 📜 
 
 - Applied Statistics and Econometrics to Financial Markets.
@@ -21,6 +15,13 @@
 - Computational Methods for Quantitative Finance.
 - Econophysics.
 - Machine Learning for Economics and Finance.
+
+### Computer Skills: 🖥️  
+
+- **Fluent:** R, R-Studio, Python, Markdown, LaTeX and Ti*k*z. 
+- **Familiar:** Matlab, Quarto, Github, VSCode. 
+- **Novice:** Julia, C++, Java.   
+
 
 ### What do I use in my work?
 <p>
