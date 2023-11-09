@@ -33,7 +33,7 @@ Machine Learning for Economics and Finance |
   <a href="https://www.researchgate.net/profile/Jose-R-Caro-Barrera-2"><img width="6%" src="img/ResearchGate_icon.png" alt="researchgate"/></a>
   <a href="https://www.github.com/jrcarob"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="github"/></a>
   <a href="https://www.webofscience.com/wos/author/rid/X-3318-2019?utm_campaign=researcher_id_badge"><img width="11%" src="img/badge.png" alt="wos"/></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57212573104"><img alt="Scopus" src="https://prod-id-assets.elsevier-ae.com/assets/images/SC/logo.svg" height="25" alt="scopus"/></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57212573104"><img alt="Scopus" src="img/scopus1.png" alt="scopus"/></a>
 
 ### Github Stats
 
