@@ -4,7 +4,7 @@
 
 <img align="left" width="50%" src="img/calculation-statistics-mathematics-graphics.jpg"></a>
 
-### Welcome to my GitHub repo. A place where you can find most of my research interests, teaching material and other stuff. I'm José Caro, an interim professor working in statistics, econometrics, data science and machine learning applied to finance and economics at The University of Córdoba, Spain. I share all of my teaching and researching content to support students, scholars and working professionals interested to learn about Data Science and quantitative methods applied to Social Sciences. </a></br>
+### Welcome to my GitHub repo. A place where you can find most of my research interests, teaching material and other stuff. I'm José Caro, an interim professor working in statistics, econometrics, data science and machine learning applied to finance and economics at the University of Córdoba, Spain. I share all of my teaching and researching content to support students, scholars and working professionals interested to learn about Data Science and quantitative methods applied to Social Sciences. </a></br>
 
 ### What do I do and how: 🧑🏼‍💻
 
