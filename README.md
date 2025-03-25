@@ -38,9 +38,7 @@ Machine Learning for Economics and Finance |
 
 ![jrcarob's Stats](https://github-readme-stats.vercel.app/api?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![jrcarob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrcarob&theme=tokyonight&hide_border=false)
-
-![jrcarob's Streak](https://streak-stats.demolab.com/?user=jrcarob)
+[![Jrcarob Streak](https://nirzak-streak-stats.vercel.app/?user=jrcarob&theme=dark)]
 
 ![jrcarob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
