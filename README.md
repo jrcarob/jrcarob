@@ -36,7 +36,7 @@ Machine Learning for Economics and Finance |
 
 ### Github Stats
 
-![jrcarob's Stats](https://github-readme-stats.vercel.app/api?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+[![José Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrcarob)](https://github.com/jrcarob/github-readme-stats)
 
 [![Jrcarob Streak](https://nirzak-streak-stats.vercel.app/?user=jrcarob&theme=dark)]
 
