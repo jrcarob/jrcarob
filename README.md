@@ -34,14 +34,12 @@ Machine Learning for Economics and Finance |
   <a href="https://www.researchgate.net/profile/Jose-R-Caro-Barrera-2"><img width="6%" src="img/ResearchGate_icon.png" alt="researchgate"/></a>
   <a href="https://www.github.com/jrcarob"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="github"/></a>
 
-### Github Stats
+<!--### Github Stats
 
 [![José Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrcarob)](https://github.com/jrcarob/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Jrcarob Streak](https://nirzak-streak-stats.vercel.app/?user=jrcarob&theme=dark)]
 
-![jrcarob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![jrcarob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarob&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)-->
 
 
